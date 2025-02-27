@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5baa91c1-1fa2-4aa8-8dae-b8b03c3a0856" name="Changes" comment="Modified templates to display posts from database v2">
+    <list default="true" id="5baa91c1-1fa2-4aa8-8dae-b8b03c3a0856" name="Changes" comment="Modified templates to display posts from database v3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,8 +130,35 @@
       <option name="project" value="LOCAL" />
       <updated>1740682312669</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modified templates to display posts from database v2">
+      <option name="closed" value="true" />
+      <created>1740682601297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740682601297</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Modified templates to display posts from database v3">
+      <option name="closed" value="true" />
+      <created>1740682663738</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740682663738</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -140,7 +167,8 @@
     <MESSAGE value="create post_list.html" />
     <MESSAGE value="Modified templates to display posts from database" />
     <MESSAGE value="Modified templates to display posts from database v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified templates to display posts from database v2" />
+    <MESSAGE value="Modified templates to display posts from database v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified templates to display posts from database v3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
