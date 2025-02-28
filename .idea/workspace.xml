@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5baa91c1-1fa2-4aa8-8dae-b8b03c3a0856" name="Changes" comment="Modified templates to display posts from database v3">
+    <list default="true" id="5baa91c1-1fa2-4aa8-8dae-b8b03c3a0856" name="Changes" comment="Modified templates to display posts from database v4">
+      <change afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740682663738</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Modified templates to display posts from database v4">
+      <option name="closed" value="true" />
+      <created>1740683818555</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740683818555</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,7 +178,8 @@
     <MESSAGE value="Modified templates to display posts from database" />
     <MESSAGE value="Modified templates to display posts from database v2" />
     <MESSAGE value="Modified templates to display posts from database v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified templates to display posts from database v3" />
+    <MESSAGE value="Modified templates to display posts from database v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified templates to display posts from database v4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
